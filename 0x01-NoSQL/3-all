@@ -1,0 +1,2 @@
+// read all file document
+db.school.find({})
