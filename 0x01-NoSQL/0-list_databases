@@ -1,0 +1,2 @@
+// show available databases in mongodb nosql database
+show dbs
